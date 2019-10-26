@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Marcelo Brilhante, Home Corp.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
